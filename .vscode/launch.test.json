@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "VictoryLogger-Java",
+                "projectName": "VictoryLogger-Java",
+                "workingDirectory": "e:\\Programs\\FRC\\Projects\\VictoryLogger-Java",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "VictoryLogger-Java",
+                "projectName": "VictoryLogger-Java",
+                "workingDirectory": "e:\\Programs\\FRC\\Projects\\VictoryLogger-Java",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
